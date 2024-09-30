@@ -80,7 +80,7 @@ class PlayerListener implements Listener {
 	private array $blockInteracted = [];
 	private array $clicksData = [];
 
-	const int DELTAL_TIME_CLICK = 1;
+	const DELTAL_TIME_CLICK = 1;
 
 	public function onDataPacketReceive(DataPacketReceiveEvent $event) : void {
 		$packet = $event->getPacket();

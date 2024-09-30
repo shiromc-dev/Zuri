@@ -1,3 +1,6 @@
+> [!WARNING]
+> このプロジェクトはフォーク元であるZuriをShiroMCで使う目的で改造したものです。
+
 # Zuri Pocketmine-MP Anticheat 🛡️
 **Zuri** is an anticheat made to protect the server from any may unfair advantages from the players. A powerful anticheat made to destroy hackers from your server for PocketMine-MP.
 
